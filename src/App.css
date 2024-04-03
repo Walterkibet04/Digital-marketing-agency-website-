@@ -22,7 +22,7 @@
     rgba(29, 129, 176, 1) 55%,
     rgba(35, 93, 173, 1) 75%
   );
-  --body-bg: rgba(6, 11, 26, 1);
+  --body-bg: rgb(6, 11, 26);
   --newsletter-bg: linear-gradient(
     90deg,
     rgba(27, 9, 115, 1) 20%,
